@@ -15,7 +15,7 @@ const AboutDetails = () => {
             Senior Mobile Engineer
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base italic mt-3">
-            "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            &quot;Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.&quot;
           </p>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
             Seasoned mobile engineer with over 8 years of experience in developing and architecting iOS and Android applications.
